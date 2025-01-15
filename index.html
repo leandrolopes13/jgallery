@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>jGallery Plugin</title>
+	<link rel="stylesheet" href="jgallery.min.css">
+	<link rel="stylesheet" href="example/example.css">
+	
+</head>
+
+<body>
+	<div class="jgallery-container">
+		<h1>jGallery</h1>
+		<p>Lightbox to show images and videos using jQuery</p>
+		<div class="gallery">
+			<a href="example/image1.jpg" class="jgallery-item" data-type="image">
+				<img src="example/image1.jpg">
+			</a>
+			<a href="example/image2.jpg" class="jgallery-item" data-type="image">
+				<img src="example/image2.jpg">
+			</a>
+			<a href="#" class="jgallery-item" data-type="video">
+				<video poster="example/poster.jpg">
+					<source src="example/video1.mp4" type="video/mp4">
+				</video>
+			</a>
+			<a href="https://vimeo.com/76979871" class="jgallery-item" data-type="video">
+				<img src="https://i.vimeocdn.com/video/452001751-8216e0571c251a09d7a8387550942d89f7f86f6398f8ed886e639b0dd50d3c90-d_260x163">
+			</a>
+			<a href="https://www.youtube.com/watch?v=4FUnXaq_VWk" class="jgallery-item" data-type="video">
+				<img src="https://i3.ytimg.com/vi/4FUnXaq_VWk/hqdefault.jpg">
+			</a>
+		</div>
+
+		<div class="sponsor">
+			<span>Sponsor</span>
+			<a href="https://www.publicidadebh.com.br/" target="_blank">
+				<img src="https://www.publicidadebh.com.br/assets/images/logo.png" />
+				<span>Apps, sistemas e sites</span>
+			</a>
+		</div>
+
+		<div class="sponsor">
+			<span>Donate</span>
+			<a href="https://buymeacoffee.com/leandrolopes13" target="_blank">
+				<img src="https://logowik.com/content/uploads/images/buy-me-a-coffee7219.logowik.com.webp" />
+				<span>Buy Me A Coffee</span>
+			</a>
+		</div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="jgallery.min.js"></script>
+	<script src="example/example.js"></script>
+</body>
+
+</html>
