@@ -1,3 +1,5 @@
 $(document).ready(function () {
-    $('.gallery a').jgallery();
+    $('.gallery a').jgallery({
+        zoom: true
+    });
 });
