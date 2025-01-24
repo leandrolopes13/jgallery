@@ -1,9 +1,10 @@
 # JGallery
 
-### Sponsor
-Publicidade BH - Apps, Sistemas e sites - https://www.publicidadebh.com.br/
-
 A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4) gallery library.
+
+## Sponsor
+
+Publicidade BH - Apps, Sistemas e sites - https://www.publicidadebh.com.br/
 
 ## Features
 
