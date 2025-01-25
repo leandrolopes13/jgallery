@@ -63,8 +63,8 @@ npm install jgallery
 
 ```javascript
 $('.gallery a').jgallery({
-        zoom: true
-    });
+	zoom: true
+});
 ```
 
 ## API Reference
