@@ -1,4 +1,4 @@
-# JGallery
+# jGallery
 
 A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4) gallery library.
 
@@ -50,7 +50,7 @@ npm install jgallery
 		</div>
 
 <!-- Include the JavaScript -->
-<script src="jgallery.mni.js"></script>
+<script src="jgallery.min.js"></script>
 <script>
     // Initialize the gallery
     $('.gallery a').jgallery({
@@ -63,8 +63,8 @@ npm install jgallery
 
 ```javascript
 $('.gallery a').jgallery({
-        zoom: true
-    });
+	zoom: true
+});
 ```
 
 ## API Reference
@@ -124,5 +124,5 @@ Leandro Lopes - leandrolopes.java@gmail.com - [GitHub Profile](https://github.co
 
 ## Acknowledgments
 
-- Thanks to all contributors who have helped make JGallery better
+- Thanks to all contributors who have helped make jGallery better
 - Inspired by various gallery libraries in the JavaScript ecosystem
