@@ -101,8 +101,8 @@ is fired when the content is fully loaded
 ### Close
 is fired when the lightbox is closed
 ```javascript
-.on('jgallery.change', function (e) {
-	console.log('jgallery.change');
+.on('jgallery.close', function (e) {
+	console.log('jgallery.close');
 })
 ```
 
