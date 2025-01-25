@@ -71,7 +71,7 @@ $('.gallery a').jgallery({
 
 ## Options
 ### Zoom
-Enable zoom function
+Enable zoom function. (Default: true)
 ```javascript
 $('.gallery a').jgallery({
 	zoom: true
