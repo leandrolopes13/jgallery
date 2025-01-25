@@ -69,6 +69,43 @@ $('.gallery a').jgallery({
 
 ## API Reference
 
+## Events
+# Resize
+is fired when the content dimensions are recalculated
+```javascript
+.on('jgallery.resize', function (e) {
+	console.log('jgallery.resize');
+})
+```
+# Open
+is fired when the open the lightbox
+```javascript
+.on('jgallery.open', function (e) {
+	console.log('jgallery.open');
+})
+```
+# Change
+is fired when the content is changed
+```javascript
+.on('jgallery.change', function (e) {
+	console.log('jgallery.change');
+})
+```
+# Loaded
+is fired when the content is fully loaded
+```javascript
+.on('jgallery.loaded', function (e) {
+	console.log('jgallery.loaded');
+})
+```
+# Close
+is fired when the lightbox is closed
+```javascript
+.on('jgallery.change', function (e) {
+	console.log('jgallery.change');
+})
+```
+
 ## Browser Support
 
 - Chrome (latest)
