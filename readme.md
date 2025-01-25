@@ -69,6 +69,15 @@ $('.gallery a').jgallery({
 
 ## API Reference
 
+## Options
+### Zoom
+Enable zoom function
+```javascript
+$('.gallery a').jgallery({
+	zoom: true
+});
+```
+
 ## Events
 ### Resize
 is fired when the content dimensions are recalculated
