@@ -1,0 +1,4 @@
+node_modules/
+.npmignore
+jgallery.js
+jgallery.scss
