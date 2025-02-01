@@ -4,7 +4,7 @@
   "description": "A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4) gallery library.",
   "main": "jgallery",
   "directories": {
-    "example": "example"
+    "example": "index.html"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,7 @@
     "videos",
     "jquery"
   ],
-  "author": "leandrolopes.java@gmail.com",
+  "author": "leandrolopes13",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leandrolopes13/jgallery/issues"
