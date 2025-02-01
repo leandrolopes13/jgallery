@@ -1,10 +1,10 @@
 {
-  "name": "jgallery",
+  "name": "@leandrolopes13/jgallery",
   "version": "0.0.5",
   "description": "A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4) gallery library.",
   "main": "jgallery",
   "directories": {
-    "example": "index.html"
+    "example": "example"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
