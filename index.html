@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>jGallery Plugin</title>
+	<title>jGallery - A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4) gallery library</title>
 	<link rel="stylesheet" href="jgallery.min.css">
 	<link rel="stylesheet" href="example/example.css">
 	
@@ -13,23 +13,23 @@
 <body>
 	<div class="jgallery-container">
 		<h1>jGallery</h1>
-		<p>Lightbox to show images and videos using jQuery</p>
+		<p>A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4) gallery library.</p>
 		<div class="gallery">
-			<a href="example/image1.jpg" class="jgallery-item" data-type="image">
+			<a href="example/image1.jpg" data-gallery="galeria1" class="jgallery-item" data-type="image">
 				<img src="example/image1.jpg">
 			</a>
-			<a href="example/image2.jpg" class="jgallery-item" data-type="image">
+			<a href="example/image2.jpg" data-gallery="galeria1" class="jgallery-item" data-type="image">
 				<img src="example/image2.jpg">
 			</a>
-			<a href="#" class="jgallery-item" data-type="video">
+			<a href="#" class="jgallery-item" data-gallery="galeria1" data-type="video">
 				<video poster="example/poster.jpg">
 					<source src="example/video1.mp4" type="video/mp4">
 				</video>
 			</a>
-			<a href="https://vimeo.com/76979871" class="jgallery-item" data-type="video">
+			<a href="https://vimeo.com/76979871" data-gallery="galeria2" class="jgallery-item" data-type="video">
 				<img src="https://i.vimeocdn.com/video/452001751-8216e0571c251a09d7a8387550942d89f7f86f6398f8ed886e639b0dd50d3c90-d_260x163">
 			</a>
-			<a href="https://www.youtube.com/watch?v=4FUnXaq_VWk" class="jgallery-item" data-type="video">
+			<a href="https://www.youtube.com/watch?v=4FUnXaq_VWk" data-gallery="galeria2" class="jgallery-item" data-type="video">
 				<img src="https://i3.ytimg.com/vi/4FUnXaq_VWk/hqdefault.jpg">
 			</a>
 		</div>
