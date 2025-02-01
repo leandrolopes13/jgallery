@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/leandrolopes13/jgallery/issues"
   },
-  "homepage": "https://github.com/leandrolopes13/jgallery#readme",
+  "homepage": "https://leandrolopes13.github.io/jgallery/",
   "publishConfig": {
     "ignore": [
       "jgallery.scss",
