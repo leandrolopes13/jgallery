@@ -1,0 +1,29 @@
+{
+  "name": "jgallery",
+  "version": "0.0.5",
+  "description": "A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4) gallery library.",
+  "main": "jgallery",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrolopes13/jgallery.git"
+  },
+  "keywords": [
+    "lightbox",
+    "gallery",
+    "images",
+    "videos",
+    "jquery"
+  ],
+  "author": "leandrolopes.java@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrolopes13/jgallery/issues"
+  },
+  "homepage": "https://github.com/leandrolopes13/jgallery#readme"
+}
