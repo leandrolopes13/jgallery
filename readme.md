@@ -6,6 +6,10 @@ A lightweight and responsive JavaScript image and videos(youtube, vimeo and mp4)
 
 Publicidade BH - Apps, Sistemas e sites - https://www.publicidadebh.com.br/
 
+## Wordpress
+
+https://github.com/leandrolopes13/jgallery-wp
+
 ## Features
 
 - 🖼️ Responsive image gallery
